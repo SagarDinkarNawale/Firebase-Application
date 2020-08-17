@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Firebase Database Example</string>
+    <string-array name="cources">
+        <item>Bsc Computer Science</item>
+        <item>BCA Computer Science</item>
+        <item>MSC Computer Science</item>
+        <item>MCA Computer Science</item>
+
+
+
+    </string-array>
+</resources>
